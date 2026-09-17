@@ -39,4 +39,5 @@
         </service>
 
     </application>
+<uses-sdk android:targetSdkVersion="32"/>
 </manifest>
